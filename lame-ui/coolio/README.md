@@ -4,4 +4,5 @@ Just a simple UI App
 
 ## Getting Started
 
-[![](record.mp4)](record.mp4)
+Just watch this
+[![](record.gif)](record.gif)
