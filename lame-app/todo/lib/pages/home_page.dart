@@ -150,7 +150,7 @@ class _HomePageState extends State<HomePage> {
           if (myTasks.length == 0) {
             return Scaffold(
               appBar: AppBar(
-                title: Text('My Tasks'),
+                title: Text('My Tasks by Raeveen'),
               ),
               floatingActionButtonLocation:
                   FloatingActionButtonLocation.centerDocked,
@@ -189,7 +189,7 @@ class _HomePageState extends State<HomePage> {
           } else {
             return Scaffold(
               appBar: AppBar(
-                title: Text('My Tasks'),
+                title: Text('My Tasks by Raeveen'),
               ),
               floatingActionButtonLocation:
                   FloatingActionButtonLocation.centerDocked,
